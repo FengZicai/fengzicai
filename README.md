@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![FengZicai's GitHub stats](https://github-readme-stats.vercel.app/api?username=FengZicai&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![FengZicai's GitHub stats](https://github-readme-stats.vercel.app/api?username=FengZicai&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=contribs,issues)
 
 <!--
 **FengZicai/fengzicai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
